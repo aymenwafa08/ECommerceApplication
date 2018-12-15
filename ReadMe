@@ -1,0 +1,5 @@
+I have used the locators for android app and executed the test case on android app 
+------------------------------------------------
+The IOS Page classes contains dummy locators for explanation purpose
+and Android locators and classes contains actual locators which
+I used for executing test of Splash app on my personal device.
